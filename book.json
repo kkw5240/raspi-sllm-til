@@ -1,0 +1,16 @@
+{
+    "title": "Raspberry Pi & sLLM Study TIL",
+    "description": "매일 학습한 내용을 기록하는 GitBook 형태의 TIL 모음집",
+    "root": "docs",
+    "structure": {
+      "readme": "intro.md",
+      "summary": "SUMMARY.md"
+    },
+    "plugins": ["-sharing", "search", "highlight"],
+    "pluginsConfig": {
+      "search": {
+        "maxIndexSize": 10000
+      }
+    }
+  }
+  
